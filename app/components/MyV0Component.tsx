@@ -20,19 +20,7 @@ export default function Component() {
           <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
             Introducing the next generation of web development. Say hello to the future.
           </p>
-          <div className="relative w-full max-w-3xl">
-            <img
-              alt="Tron Picture"
-              className="rounded-lg shadow-lg"
-              height={600}
-              src="/placeholder.svg"
-              style={{
-                aspectRatio: "1200/600",
-                objectFit: "cover",
-              }}
-              width={1200}
-            />
-          </div>
+         
         </div>
       </div>
     </section>
