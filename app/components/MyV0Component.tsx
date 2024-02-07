@@ -13,9 +13,9 @@ export default function Component() {
             Closed-Won
           </div>
           <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-            The
-            <span className="text-[#f59e0b] animate-pulse">Future</span>
-            of the Web{"\n                  "}
+            More pipeline please 
+            <span className="text-[#f59e0b] animate-pulse">Zofia</span>
+            please :){"\n                  "}
           </h1>
           <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
             Introducing the next generation of web development. Say hello to the future.
